@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<processgroup>
+  <process process_id="22222">
+    <staion station_id="0">
+      <working_time>150</working_time>
+      <workint_temp>300</workint_temp>
+      <formula>20170409</formula>
+    </staion>
+    <staion station_id="1">
+      <working_time>153</working_time>
+      <workint_temp>300</workint_temp>
+      <formula>20170409</formula>
+    </staion>
+    <staion station_id="2">
+      <working_time>157</working_time>
+      <workint_temp>300</workint_temp>
+      <formula>20170409</formula>
+    </staion>
+    <staion station_id="3">
+      <working_time>159</working_time>
+      <workint_temp>300</workint_temp>
+      <formula>20170409</formula>
+    </staion>
+  </process>
+</processgroup>
